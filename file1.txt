@@ -1,2 +1,5 @@
 test 1234
 world
+
+Testo dodatkowego tekstu
+Ale ma kota a kot ma ale. :P))
